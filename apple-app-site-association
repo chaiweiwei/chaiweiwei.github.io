@@ -1,5 +1,15 @@
 {
     "webcredentials":{
         "apps":["E3HPRGPM6R.QDJ.SaveCar"] 
+    },
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "E3HPRGPM6R.QDJ.SaveCar",
+                "paths": [ "*" ]
+            }
+        ]
     }
+
 }
